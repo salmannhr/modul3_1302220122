@@ -1,0 +1,5 @@
+D:\modul3_1302220122\modul3_1302220122\obj\Debug\modul3_1302220122.csproj.AssemblyReference.cache
+D:\modul3_1302220122\modul3_1302220122\obj\Debug\modul3_1302220122.Form1.resources
+D:\modul3_1302220122\modul3_1302220122\obj\Debug\modul3_1302220122.Properties.Resources.resources
+D:\modul3_1302220122\modul3_1302220122\obj\Debug\modul3_1302220122.csproj.GenerateResource.cache
+D:\modul3_1302220122\modul3_1302220122\obj\Debug\modul3_1302220122.csproj.CoreCompileInputs.cache
